@@ -1,0 +1,13 @@
+{
+    "redCap" :
+    {
+        "name": "Red Cap",
+        "price": 10
+    },
+
+    "blackSocks" :
+    {
+        "name": "Black Socks",
+        "price": 10
+    }
+}
